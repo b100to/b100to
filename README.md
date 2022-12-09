@@ -1,10 +1,10 @@
-# 백종화 – Jonghwa
+# 백종화 – Jonghwa Baek
 
 [![Linkedin: posquit0](https://img.shields.io/badge/-Byungjin%20Park-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/posquit0/)](https://www.linkedin.com/in/jonghwa-baek-7835971bb/)
 [![GitHub posquit0](https://img.shields.io/github/followers/posquit0?label=follow&style=social)](https://github.com/b100to)
 
 
- [![Jonghwa Baek's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+[![Jonghwa Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=b100to)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 Here are some ideas to get you started:
