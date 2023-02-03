@@ -28,9 +28,9 @@
 	<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat&logo=Amazon ECS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Lens-3D90CE?style=flat&logo=Lens&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub Actions-#2088FF?style=flat&logo=GitHub Actions&logoColor=white" />
-	<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white" />
-	<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white" />
+	<img src="https://img.shields.io/badge/Kubernetes-7B42BC?style=flat&logo=Kubernetes&logoColor=white" />
+	<img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=flat&logo=Amazon EKS&logoColor=white" />
 	
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b100to&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=b100to&show_icons=true">
