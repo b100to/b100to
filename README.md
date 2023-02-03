@@ -3,16 +3,46 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	 <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=Datadog&logoColor=white"/> 
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+	<div align=center>
+	<p>🛠 Container Orchestration 🛠</p>
+	</div>
+	<br>
+	<img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=flat&logo=Amazon EKS&logoColor=white" />
+	<img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat&logo=Amazon ECS&logoColor=white" />
+	<img src="https://img.shields.io/badge/Kubernetes-7B42BC?style=flat&logo=Kubernetes&logoColor=white" />
+	<br>
+	<div align=center>
+	<p>🛠 Infrastucture Monitoring 🛠</p>
+	</div>
+	<br>
+	 <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=Datadog&logoColor=white"/> 
+	<br>
+	<div align=center>
+	<p>🛠 Container Orchestration 🛠</p>
+	</div>
+	<br>
+	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	<br>
+	<div align=center>
+	<p>🛠 IaC 🛠</p>
+	</div>
+	<br>
+	<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white" />
+	<br>
+	<div align=center>
+	<p>🛠 CI/CD 🛠</p>
+	</div>
+	<br>
+	<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white" />
+	<img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=Argo&logoColor=white" />
+	<br>
+	<div align=center>
+	<p>🛠 Service Mash 🛠</p>
+	</div>
+	<br>
+	<img src="https://img.shields.io/badge/Istio-#466BB0?style=flat&logo=Istio&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -20,17 +50,13 @@
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white" />
+	<img src="https://img.shields.io/badge/Lens-3D90CE?style=flat&logo=Lens&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white" />
-	<img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat&logo=Amazon ECS&logoColor=white" />
-	<img src="https://img.shields.io/badge/Lens-3D90CE?style=flat&logo=Lens&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white" />
-	<img src="https://img.shields.io/badge/Kubernetes-7B42BC?style=flat&logo=Kubernetes&logoColor=white" />
-	<img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=flat&logo=Amazon EKS&logoColor=white" />
+
 	
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b100to&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=b100to&show_icons=true">
