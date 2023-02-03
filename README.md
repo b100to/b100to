@@ -32,7 +32,7 @@
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<br>
-
+</div>
 ### Certificated
  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/5f9b4b06-01fd-411f-b9be-8605440cc5a0/public_url)
 <div align=center>
