@@ -34,7 +34,7 @@
 	<br>
 
 ### Certificated
- - [AWS Certified Solutions Architect – Associate]([https://www.youracclaim.com/badges/956acded-b748-473c-9ebd-fb2f2ef60b4c](https://www.credly.com/badges/5f9b4b06-01fd-411f-b9be-8605440cc5a0/public_url))
+ - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/5f9b4b06-01fd-411f-b9be-8605440cc5a0/public_url)
 <div align=center>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b100to&layout=compact"><br><br>
