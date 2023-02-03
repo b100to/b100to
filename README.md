@@ -33,8 +33,10 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<br>
 </div>
+
 ### Certificated
  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/5f9b4b06-01fd-411f-b9be-8605440cc5a0/public_url)
+
 <div align=center>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b100to&layout=compact"><br><br>
