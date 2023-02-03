@@ -24,7 +24,13 @@
 	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white" />
-
+	<img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat&logo=Amazon ECS&logoColor=white" />
+	<img src="https://img.shields.io/badge/Lens-3D90CE?style=flat&logo=Lens&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub Actions-#2088FF?style=flat&logo=GitHub Actions&logoColor=white" />
+	<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white" />
+	<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white" />
+	
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b100to&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=b100to&show_icons=true">
